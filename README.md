@@ -19,12 +19,17 @@ This repository contains a Power BI sales dashboard built using the **AdventureW
 
 ## 🔍 Dashboard Insights
 
-Click on the images below to view full-size screenshots:
+### Sales Overview
+![Sales Overview](screenshots/1.png)
 
-- [![Sales Overview](screenshots/1.png)](screenshots/1.png)
-- [![Regional Sales Map](screenshots/2.png)](screenshots/2.png)
-- [![Profit Trend](screenshots/3.png)](screenshots/3.png)
-- [![Product Category Sales](screenshots/4.png)](screenshots/4.png)
+### Regional Sales Map  
+![Regional Sales Map](screenshots/2.png)
+
+### Profit Trend  
+![Profit Trend](screenshots/3.png)
+
+### Product Category Sales  
+![Product Category Sales](screenshots/4.png)
 
 ## 📎 About AdventureWorks
 
