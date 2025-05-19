@@ -20,8 +20,7 @@ This repository contains a Power BI sales dashboard built using the **AdventureW
 ## 🔍 Dashboard Insights
 
 ### Sales Overview
-![Sales Overview](screenshots/1.png)
-![Alt text]([screenshots/1.png](https://github.com/rahi19patel/Adventure-Works-Power-Bi-Dashboard/blob/main/Screenshot%202025-05-18%20141936.png))
+<a href="https://github.com/rahi19patel/Adventure-Works-Power-Bi-Dashboard/blob/main/Screenshot%202025-05-18%20141936.png">Sales Overview </a>
 
 
 ### Regional Sales Map  
