@@ -21,18 +21,24 @@ This repository contains a Power BI sales dashboard built using the **AdventureW
 
 ### Sales Overview
 <a href="https://github.com/rahi19patel/Adventure-Works-Power-Bi-Dashboard/blob/main/Screenshot%202025-05-18%20141936.png">Sales Overview </a>
+![Sales Oveview](.Screenshot%202025-05-18%20141936.png)
 
 ### Regional Sales Map  
 <a href="https://github.com/rahi19patel/Adventure-Works-Power-Bi-Dashboard/blob/main/Screenshot%202025-05-18%20141956.png">Regional Sales Map</a>
+![Regional Sales Map](.Screenshot%202025-05-18%20141956.png)
 
 ### Profit Trend  
 <a href="https://github.com/rahi19patel/Adventure-Works-Power-Bi-Dashboard/blob/main/Screenshot%202025-05-18%20142009.png">Profit Trend</a>
+![Profit Trend](.Screenshot%202025-05-18%20142009.png)
 
 ### Product Category Sales  
 <a href="https://github.com/rahi19patel/Adventure-Works-Power-Bi-Dashboard/blob/main/Screenshot%202025-05-18%20142027.png">Product Category Sales</a>
+![Product Category Sales](.Screenshot%202025-05-18%20142027.png)
 
 ### ToolTip
 <a href="https://github.com/rahi19patel/Adventure-Works-Power-Bi-Dashboard/blob/main/Screenshot%202025-05-18%20142053.png">ToolTip</a>
+![ToolTip](.Screenshot%202025-05-18%20142053.png)
+
 
 ## Download the Dashboard
 <a href="https://github.com/rahi19patel/Adventure-Works-Power-Bi-Dashboard/blob/main/Screenshot%202025-05-18%20142053.png">Adventure Works Dashboard</a>
